@@ -1,5 +1,7 @@
 # Kaggle-BOT-Detection
+The data is too lag to be updted. Here is the link to my dataset
 
+https://www.kaggle.com/datasets/shriyashjagtap/kaggle-bot-account-detection
 
 About Dataset
 The data in question was generated using the Faker library and is not authentic real-world data. In recent years, there have been numerous reports suggesting the presence of bot voting practices that have resulted in manipulated outcomes within data science competitions. As a result of this, the idea for creating a simulated dataset arose. Although this is the first time that this dataset has been created, it is open to feedback and constructive criticism in order to improve its overall quality and significance.
