@@ -1,5 +1,6 @@
 # Kaggle-BOT-Detection
-The data is too lag to be updted. Here is the link to my dataset
+
+N.B: The data is too lag to be updted. Here is the link to my dataset
 
 https://www.kaggle.com/datasets/shriyashjagtap/kaggle-bot-account-detection
 
